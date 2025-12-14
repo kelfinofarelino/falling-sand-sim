@@ -2,12 +2,11 @@
 
 ![C](https://img.shields.io/badge/Language-C99-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
 A high-performance **Cellular Automata** simulation running directly in your terminal. It simulates granular physics (gravity, stacking, and displacement) using efficient memory manipulation and ASCII rendering.
 
 ![Demo Preview](screenshots/demo.gif)
-*(Note: Replace the image above with your actual screenshot/GIF)*
 
 ## ✨ Key Features
 
